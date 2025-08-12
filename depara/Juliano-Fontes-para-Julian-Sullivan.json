@@ -1,0 +1,39 @@
+{
+  "de": "Juliano Fontes",
+  "para": "Julian Sullivan",
+  "age": 24,
+  "profession": "Civil Engineer at Sullivan Engineering; specializes in structural calculations and technical solutions. Extremely meticulous, he is the 'guarantor' of safety and precision in projects.",
+  "appearance": "Light skin, 6'0\" (1.82m), slim to medium build, slightly hunched when focused, short dark brown hair, neatly trimmed beard, neutral dress shirts and straight-leg pants, comfortable leather shoes; uninterested in designer brands but keeps everything clean and aligned, serious calculating expression",
+  "personality": "Socially shy and introspective; direct and objective at work; considers time the most valuable resource and avoids small talk; highly observant, speaks only when necessary; deeply attached to his mother, sharing a creative refuge since childhood; respected for his technical competence but underestimated by his family for lacking social presence; bears marks of his father’s psychological pressure to be more 'charismatic' and 'impressive'; sister teases him for lacking 'spark', reinforcing his insecurities.",
+  "gestures": "Tilts head when analyzing models or technical drawings, organizes objects with almost obsessive precision, runs fingers along surfaces while thinking, closes eyes briefly before speaking to focus, clasps hands behind his back when receiving criticism",
+  "symbolic_object": "Collection of rare Lego sets and special project models stored in his mother’s studio since childhood — his creative and emotional refuge",
+  "address": "Lives with his parents (Dr. Raymond and Isabella Sullivan) and sister Lauren in an oceanfront 4-bedroom home at 1847 Lumina Avenue, Wrightsville Beach, NC 28480. His bedroom is simple and functional, but the studio he shares with his mother is well-organized, bright, and full of memories.",
+  "frequent_locations": [
+    "Sullivan Engineering (1122 S 3rd St, technical wing)",
+    "Mother’s art and model studio",
+    "Specialized hardware and model supply stores",
+    "Quiet Wilmington cafés where he reviews calculations and designs",
+    "Early-morning walks along Wrightsville Beach"
+  ],
+  "relationships": {
+    "Dr. Raymond": "Relationship marked by pressure and psychological demands; sees Julian as competent but lacking presence and leadership potential",
+    "Isabella": "Affectionate bond; share a love for hands-on creative work and the studio space",
+    "Lauren": "Tense; she teases his lack of charisma",
+    "Ethan": "Best friend and professional partner; shared perfect architect-engineer synergy",
+    "Brandon/Joshua": "Close friends despite not being part of original trio",
+    "Gavin": "Friend and mentor; taught him advanced technical skills",
+    "Hettie": "Trusted confidante for frustrations",
+    "Maggie": "Respects her resilience and strength"
+  },
+  "timeline": [
+    "2001: Born in Wilmington, NC, youngest child of Dr. Raymond and Isabella Sullivan",
+    "2008 (7): Starts building complex Lego sets; gains dedicated space in mother’s studio to store creations",
+    "2016 (15): Begins Civil Engineering degree at UNC Wilmington; meets mentor Gavin",
+    "2018 (17): First trip to Italy with his mother",
+    "2019 (18): Forms strong professional and personal bond with Ethan",
+    "2021 (20): Ends engagement after betrayal by an architect; reinforces his introversion",
+    "2022 (21): Joins Sullivan Engineering full-time, working closely with Ethan",
+    "2023 (22): Deepens friendship with Hettie as a confidante",
+    "2025 (24): Ethan’s death removes his greatest professional and emotional ally, leaving the company in a delicate state"
+  ]
+}
