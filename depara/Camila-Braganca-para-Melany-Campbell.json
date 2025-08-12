@@ -1,0 +1,35 @@
+{
+  "de": "Camila Bragança",
+  "para": "Melany Campbell",
+  "age": 32,
+  "profession": "Aesthetic Physician at Coastal Wellness Clinic, Historic Downtown",
+  "appearance": "Golden light skin, 5'6\" (1.68m), slim toned body, platinum blonde long wavy hair, bright green eyes, perfect subtle makeup, floral perfume (Jo Malone Peony), white gold jewelry, fitted white lab coat with embroidered name",
+  "personality": "Elegant, competitive, image-conscious; seeks recognition for intelligence but uses appearance strategically; resorts to charm when threatened",
+  "gestures": "Calculated smile, impeccable posture, evaluative gaze, subtly touches hair to draw attention",
+  "symbolic_object": "Simple white gold ring (mother’s heirloom, symbol of expectations)",
+  "address": "Renovated 2-bedroom apartment in a historic building, balcony overlooking the Cape Fear River, located in Historic Downtown Wilmington, NC 28401",
+  "frequent_locations": [
+    "Coastal Wellness Clinic (112 N Front St)",
+    "downtown cafés (Port City Java)",
+    "Hagar Shelter visits"
+  ],
+  "relationships": {
+    "Maggie": "Clinic colleague; admires but feels subtle rivalry",
+    "Joann": "Respects but keeps distance; recognizes Joann’s authentic strength",
+    "Joshua": "Immediate interest; tries seduction but realizes authenticity is needed",
+    "Ethan": "Limited contact, known through Maggie/Joshua",
+    "Mother": "Tense relationship; prioritized beauty over studies",
+    "Father": "Physically present, emotionally absent"
+  },
+  "timeline": [
+    "1993: Born in Wilmington, upper-middle-class family",
+    "1998–2008 (5–15): Mother emphasizes beauty; father distant",
+    "2009 (16): Rebels, studies secretly for college entrance exam",
+    "2010 (17): Enters Medicine at UNC Chapel Hill against mother’s wishes",
+    "2011–2016 (18–23): Studies Medicine, specializes in dermatology/aesthetics",
+    "2017–2022 (24–29): Builds career in private clinics, maintains selective social life",
+    "2023 (30): Leases two rooms at Coastal Wellness Clinic for aesthetics/consultations",
+    "2024 (31): Works with Maggie, meets Joshua",
+    "2025 (32): Pursues Joshua, learns to show genuine side"
+  ]
+}
