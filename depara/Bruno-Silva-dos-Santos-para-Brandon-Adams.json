@@ -1,0 +1,37 @@
+{
+  "de": "Bruno",
+  "para": "Brandon Adams",
+  "age": 25,
+  "profession": "Civil Engineer specializing in commercial and sports facilities at Sullivan Engineering",
+  "appearance": "Biracial (Black/White), 6'2\" (1.87m), athletic, flawless skin, near-shaved hair, thin lined beard, expressive dark brown eyes, discreet luxury style (branded polos, tailored pants/jeans, Italian sneakers), woody imported perfume (Creed Aventus)",
+  "personality": "Intelligent, dedicated, competitive, disciplined; strives for perfection to counter prejudice; charming, ambitious, loyal but struggles with vulnerability",
+  "gestures": "Upright posture, direct gaze, firm handshake, controlled gestures, calculated smile in professional settings",
+  "symbolic_object": "White hard hat with 2019 Coastal Sports logo (first internship)",
+  "address": "932 S 3rd Street, Historic Downtown, Wilmington, NC 28401 (with Joann)",
+  "frequent_locations": [
+    "Sullivan Engineering (1122 S 3rd St)",
+    "high-end construction sites",
+    "sports clubs",
+    "Wrightsville/Carolina Beach",
+    "Greenfield Lake Park (rowing)",
+    "Riverwalk cafés/restaurants"
+  ],
+  "relationships": {
+    "Joann": "Deep love and respect; sees her as a resilience model",
+    "Maggie": "Second mother from childhood; strong bond via Ethan",
+    "Ethan": "Brother-like friend; death leaves emotional void",
+    "Joshua": "Professional and personal respect; admires his integrity",
+    "Lauren": "Affair driven by mutual ambition",
+    "Liv": "Unexpected love interest, creating emotional conflict"
+  },
+  "timeline": [
+    "2000: Born, grows up with Ethan as brothers",
+    "2004 (4): Witnesses mother’s abuse; loses unborn sister Iris; lives temporarily with Maggie",
+    "2005–2015 (5–15): Bonds with Ethan over sports (rowing, swimming, beach volleyball)",
+    "2016 (16): Starts Civil Engineering degree at UNCW",
+    "2019 (19): Interns at Coastal Sports, discovers passion for sports engineering",
+    "2020–2023 (20–23): Works/studies, specializes in sports/commercial projects",
+    "2024 (24): Joins Sullivan Engineering; starts affair with Lauren",
+    "2025 (25): Career rises; develops feelings for Liv, creating dilemmas"
+  ]
+}
