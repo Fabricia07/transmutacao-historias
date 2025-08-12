@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "nome": "Mapeamento Cultural BR→USA",
+    "versao": "1.0",
+    "data_criacao": "2025-08-12",
+    "descricao": "Mapeamento completo de elementos culturais brasileiros para americanos focado em Wilmington, NC"
+  },
+  "personagens_residencias": {
+    "Maggie_Bennett": {
+      "endereco": "847 Dock Street, Historic Downtown, Wilmington, NC 28401",
+      "trabalho": "Coastal Wellness Clinic, 112 N Front St"
+    },
+    "Joann_Adams": {
+      "endereco": "932 S 3rd Street, Historic Downtown, Wilmington, NC 28401",
+      "observacao": "Casa moderna"
+    },
+    "Brandon_Adams": {
+      "endereco": "932 S 3rd Street, Historic Downtown, Wilmington, NC 28401",
+      "observacao": "Mora com Joann"
+    },
+    "Anthony_Hamilton": {
+      "endereco": "1205 Market Street, Historic Downtown, Wilmington, NC 28401",
+      "passado": "849 Dock Street (1998–2005)"
+    },
+    "Meredith_Hamilton": {
+      "endereco": "1205 Market Street, Historic Downtown, Wilmington, NC 28401",
+      "observacao": "Com Anthony e Joshua"
+    },
+    "Joshua_Hamilton": {
+      "endereco": "1205 Market Street, Historic Downtown, Wilmington, NC 28401",
+      "alternativo": "614 Carolina Beach Ave N (condo)",
+      "futuro": "2101 Market St"
+    },
+    "Lauren_Sullivan": {
+      "endereco": "1847 Lumina Avenue, Wrightsville Beach, NC 28480",
+      "observacao": "Mora com os pais e Julian"
+    },
+    "Julian_Sullivan": {
+      "endereco": "1847 Lumina Avenue, Wrightsville Beach, NC 28480",
+      "observacao": "Quarto simples; estúdio com a mãe"
+    },
+    "Dr_Raymond_Sullivan": {
+      "endereco": "1847 Lumina Avenue, Wrightsville Beach, NC 28480",
+      "observacao": "Fundador da Sullivan Engineering"
+    },
+    "Isabella_Romano_Sullivan": {
+      "endereco": "1847 Lumina Avenue, Wrightsville Beach, NC 28480",
+      "observacao": "Studio de velas próprio; boutique alugada perto de Wrightsville Beach"
+    },
+    "Gavin_Campbell": {
+      "endereco": "428 N 4th Street, Historic Downtown, Wilmington, NC 28401",
+      "observacao": "Único do núcleo que mora em apartamento"
+    },
+    "Olivia_Mendes": {
+      "endereco": "1010 N 6th Street, Wilmington, NC 28401 (Northside)",
+      "observacao": "Casa herdada; decoração de brechó"
+    },
+    "Melany_Campbell": {
+      "endereco": "Apartamento renovado em Historic Downtown, Wilmington, NC 28401",
+      "observacao": "Varanda para o Cape Fear River"
+    },
+    "Christine_Douglas": {
+      "endereco": "614 Carolina Beach Avenue N, Wilmington, NC 28428",
+      "observacao": "Endereço à época de vida"
+    },
+    "Jim_Douglas": {
+      "endereco": "New Hanover County Detention Facility, 3950 Juvenile Center Rd, Castle Hayne, NC 28429",
+      "observacao": "Preso por feminicídio"
+    },
+    "Davi_Whitmore": {
+      "endereco": "614 Carolina Beach Avenue N, Wilmington, NC 28428",
+      "observacao": "Com Hettie; quarto reformado por Ethan"
+    },
+    "Heather_Whitmore": {
+      "endereco": "Apartamento na Carolina Beach Avenue N, Wilmington, NC",
+      "observacao": "Apartamento próprio; nº não especificado"
+    },
+    "Linda_Monroe": {
+      "endereco": "845 Dock Street, Historic Downtown, Wilmington, NC 28401",
+      "observacao": "Casa histórica de 3 andares"
+    },
+    "Ethan_Bennett": {
+      "endereco": "847 Dock Street, Historic Downtown, Wilmington, NC 28401",
+      "observacao": "Morava com Maggie"
+    },
+    "Jasmine_Douglas": {
+      "endereco": "614 Carolina Beach Ave N, Wilmington, NC 28428",
+      "alternativo": "Good Shepherd Center, 811 Martin St"
+    }
+  },
+  "enderecos": {
+    "República do Peru, Copacabana": "847 Dock Street, Historic Downtown, Wilmington, NC 28401",
+    "Apartamento da Jo na Barra": "932 S 3rd Street, Historic Downtown, Wilmington, NC 28401",
+    "Casa em Botafogo": "1205 Market Street, Historic Downtown, Wilmington, NC 28401",
+    "Casa na Tijuca": "522 Carolina Beach Ave N, Wilmington, NC 28428",
+    "Casa na Zona Sul": "1847 Lumina Avenue, Wrightsville Beach, NC 28480"
+  },
+  "estabelecimentos_profissionais": {
+    "Fontes Engenharia": "Sullivan Engineering & Architecture, 1122 S 3rd St, Wilmington, NC 28401",
+    "Clínica em Botafogo": "Coastal Wellness Clinic, 112 N Front St, Wilmington, NC 28401",
+    "Escritório na Barra": "1122 S 3rd St, Historic Downtown",
+    "Loja em Ipanema": "Cotton Exchange, 321 N Front St, Wilmington, NC 28401"
+  },
+  "instituicoes": {
+    "Hospital Lourenço Jorge": "New Hanover Regional Medical Center, 2131 S 17th St, Wilmington, NC 28401",
+    "Hospital da Barra": "New Hanover Regional Medical Center",
+    "Hospital Municipal": "New Hanover Regional Medical Center",
+    "UFF/UERJ": "University of North Carolina Wilmington (UNCW)"
+  },
+  "vias_transporte": {
+    "Avenida Ayrton Senna": "Market Street",
+    "Avenida das Américas": "College Road",
+    "Rua General Osório": "Front Street",
+    "Avenida Copacabana": "Water Street",
+    "Via Expressa": "Cape Fear Memorial Bridge",
+    "Metrô do Rio": "Wave Transit Bus System",
+    "Ônibus municipal": "Wave Transit Bus",
+    "Trem urbano": "Local bus route",
+    "VLT": "Local transit",
+    "Taxi": "Uber/Lyft",
+    "Uber": "Uber",
+    "99": "Lyft",
+    "Cabify": "Uber"
+  },
+  "locais_religiosos": {
+    "Igreja do velório": "First Baptist Church, 411 Market St, Wilmington, NC 28401",
+    "Igreja Católica": "St. Mary's Catholic Church, 412 Ann St, Wilmington, NC 28401",
+    "Capela": "Chapel at Oakdale Cemetery"
+  },
+  "comercios": {
+    "Padaria São Jorge": "The George on the Riverwalk, 128 S Water St, Wilmington, NC 28401",
+    "Supermercado Extra": "Harris Teeter, 820 S College Rd, Wilmington, NC 28403",
+    "Shopping Barra": "Mayfaire Town Center, 6835 Main St, Wilmington, NC 28405",
+    "Galeria comercial": "Cotton Exchange, 321 N Front St, Wilmington, NC 28401"
+  },
+  "ongs_organizacoes": {
+    "ONG Tenda de Agar": "Tenda de Hagar Shelter, 128 S Water St, Wilmington, NC 28401",
+    "Casa de apoio": "Good Shepherd Center, 811 Martin St, Wilmington, NC 28401",
+    "Centro comunitário": "Harrelson Center, 20 N 4th St, Wilmington, NC 28401"
+  },
+  "comidas": {
+    "Café com leite matinal": "Coffee with cream",
+    "Café preto": "Black coffee",
+    "Café pingado": "Coffee with a splash of milk",
+    "Pão francês": "Fresh biscuits from The George on the Riverwalk",
+    "Pão de açúcar": "Sweet biscuits",
+    "Manteiga": "Butter",
+    "Suco de laranja": "Fresh orange juice",
+    "Suco natural": "Fresh juice",
+    "Refrigerante": "Soda",
+    "Água de coco": "Coconut water",
+    "Chá de camomila": "Chamomile tea",
+    "Chá mate": "Green tea",
+    "Bife à parmegiana com purê": "Chicken fried steak with mashed potatoes",
+    "Feijoada": "Southern-style shrimp & grits",
+    "Arroz e feijão": "Rice and beans",
+    "Farofa": "Seasoned breadcrumbs",
+    "Biscoito de polvilho": "Cheese crackers",
+    "Sanduíche natural": "Fresh sandwich"
+  },
+  "veiculos": {
+    "Moto Ninja preta": "Motorcycle (Honda ou similar)",
+    "Carro popular": "Compact car",
+    "SUV": "SUV",
+    "Carro de luxo": "Luxury car"
+  },
+  "viagens": {
+    "Rodoviária": "Greyhound Bus Station (Wilmington)",
+    "Ônibus interestadual": "Greyhound bus",
+    "Voo para SP": "Flight to Charlotte",
+    "Viagem para BH": "Trip to Charlotte"
+  },
+  "lazer_natureza": {
+    "Praia brasileira": "Wrightsville Beach",
+    "Copacabana": "Wrightsville Beach",
+    "Ipanema": "Carolina Beach",
+    "Lagoa Rodrigo de Freitas": "Greenfield Lake",
+    "Praia da Barra": "Kure Beach",
+    "Cristo Redentor": "Cape Fear Riverwalk",
+    "Pão de Açúcar": "Battleship North Carolina",
+    "Tijuca": "Masonboro Island Reserve",
+    "Vista panorâmica": "Coastal vista from Wrightsville Beach Pier",
+    "Aterro do Flamengo": "Greenfield Lake Park",
+    "Parque Lage": "Airlie Gardens",
+    "Quinta da Boa Vista": "Hugh MacRae Park"
+  },
+  "cultura_entretenimento": {
+    "Livraria da Travessa": "Thalian Hall Bookstore, 310 Chestnut St, Wilmington, NC 28401",
+    "Casa de chocolate": "The Chocolate Post, 320 Castle St, Wilmington, NC 28401",
+    "Teatro Municipal": "Thalian Hall, 310 Chestnut St, Wilmington, NC 28401",
+    "Centro Cultural": "Historic Downtown Wilmington Cultural District",
+    "Carnaval": "North Carolina Azalea Festival",
+    "Festa Junina": "Wilmington Seafood Festival",
+    "Rock in Rio": "Concert at Live Oak Bank Pavilion, 10 Cowan St, Wilmington, NC 28401",
+    "Feira de artesanato": "Riverfront Farmers Market"
+  },
+  "economia": {
+    "Real (R$)": "Dollar ($)",
+    "Reais": "Dollars",
+    "Centavos": "Cents",
+    "R$ 100": "$25-30",
+    "R$ 1,000": "$250-300",
+    "R$ 5,000": "$1,200-1,500",
+    "Salário mínimo": "Minimum wage",
+    "Banco do Brasil": "Bank of America",
+    "Caixa Econômica": "Wells Fargo",
+    "Cartão de crédito": "Credit card"
+  },
+  "saude_emergencias": {
+    "SAMU": "911/EMS",
+    "Bombeiros": "Fire Department",
+    "Polícia Militar": "Wilmington Police Department",
+    "UPA": "Emergency Room at New Hanover Regional Medical Center",
+    "Psicólogo CRP": "Licensed Therapist",
+    "Médico CRM": "Medical Doctor (MD)",
+    "Assistente Social": "Social Worker"
+  },
+  "educacao": {
+    "Ensino Fundamental": "Elementary/Middle School",
+    "Ensino Médio": "High School",
+    "Faculdade": "College",
+    "Universidade pública": "University of North Carolina Wilmington (UNCW)",
+    "Colégio Pedro II": "New Hanover High School",
+    "Escola municipal": "Forest Hills Elementary",
+    "UFRJ": "UNCW"
+  },
+  "moradia": {
+    "Apartamento": "House ou Apartment",
+    "Casa de 3 quartos": "3-bedroom house",
+    "Cobertura": "Coastal home with views",
+    "Quitinete": "Studio apartment",
+    "Quintal": "Backyard",
+    "Varanda": "Porch ou Deck",
+    "Portaria": "Gated community",
+    "Área de serviço": "Utility room"
+  }
+}
