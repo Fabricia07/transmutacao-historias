@@ -1,0 +1,36 @@
+{
+  "de": "Lúcio",
+  "para": "Gavin Campbell",
+  "age": 36,
+  "profession": "Sustainable Architect and Engineer at Sullivan Engineering (16 years)",
+  "appearance": "Black American, 5'10\" (1.78m), slim, upright posture, warm brown skin, wavy dark brown hair kept neat, hazel eyes with a slightly melancholic gaze, chic effortless style (cotton shirts, straight-cut pants, clean casual leather shoes or sneakers), often seen in a cooking apron at home",
+  "personality": "Technically meticulous, loyal, with a discreet sense of humor; privately struggles with depression, avoids therapy, quietly endures the extra workload shifted to him by Lauren",
+  "gestures": "Runs a hand along his chin when thinking, organizes papers meticulously, looks away when avoiding personal topics, adjusts shirt hem when uneasy",
+  "symbolic_object": "A well-used recipe notebook with personal notes, clippings, and comments",
+  "address": "428 N 4th Street, Historic Downtown, Wilmington, NC 28401 (a modest but charming renovated two-bedroom apartment — the only member of the core group living in an apartment)",
+  "frequent_locations": [
+    "Sullivan Engineering (1122 S 3rd St)",
+    "Casual live-music bars",
+    "Home kitchen",
+    "Trips with Joann/Maggie"
+  ],
+  "relationships": {
+    "Lauren": "Respects but feels quietly burdened by her delegated tasks",
+    "Julian": "Proud of his technical growth; close collaborator",
+    "Brandon/Joshua": "Cordial professional ties",
+    "Joann": "Close friend; shares bars and trips",
+    "Maggie": "Fond of her; enjoys leisure time together",
+    "Hettie": "Mutual respect and workplace camaraderie"
+  },
+  "timeline": [
+    "1989: Born in Wilmington",
+    "2009 (20): Interns at Sullivan Engineering",
+    "2012 (23): Graduates in Civil Engineering from UNCW; stays with firm",
+    "2014 (25): Completes Architecture degree",
+    "2016 (27): Gains recognition for practical and well-executed residential renovations",
+    "2019 (30): Becomes key project executor",
+    "2022 (33): Depression symptoms intensify",
+    "2024 (35): Overloaded by Lauren’s tasks",
+    "2025 (36): Compiles recipes for potential e-book; maintains friendships with Joann/Maggie"
+  ]
+}
