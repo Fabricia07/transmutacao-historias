@@ -1,0 +1,18 @@
+{
+  "sistema": {
+    "nome": "Sistema de Transmutação de Histórias",
+    "versao": "1.0",
+    "data_criacao": "2025-08-12"
+  },
+  "configuracoes": {
+    "localizacao_principal": "Wilmington, Carolina do Norte, USA",
+    "formato_endereco": "número rua, bairro, Wilmington, NC código-postal",
+    "moeda_padrao": "USD ($)",
+    "fuso_horario": "EST (Eastern Standard Time)"
+  },
+  "apis": {
+    "claude_endpoint": "https://api.anthropic.com/v1/messages",
+    "github_repository": "transmutacao-historias",
+    "dados_path": "/dados/"
+  }
+}
