@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "nome": "Protocolos Culturais Americanos",
+    "versao": "1.0",
+    "data_criacao": "2025-08-12",
+    "descricao": "Protocolos culturais específicos americanos para narrativas autênticas em Wilmington, NC"
+  },
+  "protocolo_luto_americano": {
+    "timeline": "5-7 dias após o falecimento",
+    "sequencia": [
+      "Funeral Home: Velório 2-3 dias",
+      "Funeral Service: Cerimônia em igreja ou funeral home",
+      "Burial/Cremation: Sepultamento ou cremação",
+      "Reception: Refeição comunitária"
+    ],
+    "locais": {
+      "funeral_home": "Greenlawn Memorial Park Funeral Home, 1311 Shipyard Blvd",
+      "cerimonia": "First Baptist Church, 411 Market St",
+      "sepultamento": "Oakdale Cemetery, 520 N 15th St",
+      "cremacao_dispersao": "Wrightsville Beach",
+      "recepcao": "Casa da família (847 Dock St) ou First Baptist Church"
+    },
+    "ambiente_funeral": {
+      "iluminacao": "suave com velas",
+      "flores": ["magnólias", "lírios", "coroas com flora costeira"],
+      "musica": ["hinos gospel (Amazing Grace)", "piano suave"],
+      "objetos": ["livro de condolências", "fotos do falecido em molduras rústicas"],
+      "caixao": "aberto ou fechado (decisão da família)"
+    },
+    "presenca_obrigatoria": [
+      "vizinhos",
+      "familiares",
+      "amigos de trabalho/escola",
+      "comunidade",
+      "colegas profissionais"
+    ],
+    "rituais_especificos": [
+      "orações silenciosas",
+      "abraços longos",
+      "palavras de conforto: He's at peace now",
+      "memórias compartilhadas",
+      "cartões de condolências manuscritos"
+    ],
+    "refeicao_comunitaria": {
+      "comidas": [
+        "Shrimp & grits",
+        "oyster roast", 
+        "cornbread casserole",
+        "pecan pie"
+      ],
+      "bebidas": [
+        "Coffee with cream",
+        "sweet tea"
+      ],
+      "sanduiches": "Presunto com biscuits do The George",
+      "atmosfera": "conversas baixas, risos suaves, apoio mútuo"
+    }
+  },
+  "estilo_narrativo": {
+    "padrao": "HBO/Netflix cinematográfico",
+    "caracteristicas": [
+      "descrições visuais detalhadas",
+      "profundidade emocional sem melodrama",
+      "realismo psicológico",
+      "pacing: alternância entre intensidade, contemplação e revelação"
+    ],
+    "elementos_sensoriais": {
+      "cheiros": [
+        "coffee with cream (Port City Java)",
+        "brisa salgada no Wrightsville Beach Pier",
+        "shrimp & grits na recepção"
+      ],
+      "luz": [
+        "golden coastal light no entardecer",
+        "neblina costeira matinal"
+      ],
+      "texturas": [
+        "madeira do pier",
+        "areia de Carolina Beach",
+        "colar de ametista"
+      ],
+      "sons": [
+        "gaivotas",
+        "ondas",
+        "violão acústico",
+        "silêncios significativos"
+      ]
+    },
+    "estrutura_emocional": {
+      "evitar": "trauma constante",
+      "incluir": "leveza e momentos felizes",
+      "respiros": ["Maggie no Airlie Gardens", "Joshua no Riverwalk"],
+      "humor_sutil": "comentários locais (Only in Wilmington...)"
+    }
+  },
+  "cliffhangers": {
+    "frequencia": "a cada 2-3 minutos, final de capítulo, antes de mudar POV",
+    "tipos": [
+      "revelação emocional",
+      "tensão interpessoal", 
+      "plot twist",
+      "suspense físico"
+    ],
+    "execucao": [
+      "última linha gera curiosidade",
+      "pergunta aberta",
+      "não resolver imediatamente"
+    ],
+    "exemplos": [
+      "O que Ethan escondeu no caderno?",
+      "Por que Melany mentiu para Maggie?"
+    ]
+  },
+  "frases_americanas": {
+    "conforto_luto": [
+      "He's at peace now",
+      "She's in a better place", 
+      "I'm sorry for your loss",
+      "My thoughts and prayers are with you"
+    ],
+    "cotidiano": [
+      "How are you holding up?",
+      "Let me know if you need anything",
+      "We're here for you",
+      "Take care of yourself"
+    ],
+    "locais": [
+      "Only in Wilmington...",
+      "Down by the river",
+      "Coastal living",
+      "Small town, big hearts"
+    ]
+  },
+  "cultura_costeira": {
+    "valores": [
+      "comunidade unida",
+      "conexão com o oceano",
+      "vida ao ar livre",
+      "hospitalidade sulista"
+    ],
+    "atividades": [
+      "caminhadas no Cape Fear Riverwalk",
+      "pesca no Wrightsville Beach Pier",
+      "farmers market aos sábados",
+      "eventos no Riverwalk"
+    ],
+    "rituais_comunitarios": [
+      "encontros casuais no Riverwalk",
+      "festivais sazonais",
+      "apoio mútuo em crises",
+      "celebrações familiares"
+    ]
+  },
+  "elementos_narrativos": {
+    "personagem_respirar": {
+      "local": "Thalian Hall Bookstore",
+      "atividade": "leitura, café, observação",
+      "ambiente": "comunidade intelectual acolhedora"
+    },
+    "encontros_casuais": {
+      "locais": ["Cape Fear Riverwalk", "Historic Downtown"],
+      "contexto": "eventos comunitários",
+      "caracteristica": "Wilmington como small big city"
+    },
+    "momentos_reflexao": {
+      "locais": ["Airlie Gardens", "Wrightsville Beach Pier"],
+      "atmosfera": "golden coastal light",
+      "elemento": "vastidão do mar dando perspectiva"
+    }
+  }
+}
