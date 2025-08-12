@@ -1,0 +1,36 @@
+{
+  "de": "Joana",
+  "para": "Joann Adams",
+  "age": 48,
+  "profession": "Retail Manager at Cotton Exchange boutique (321 N Front St, Wilmington, NC 28401); Volunteer Coordinator at Hagar Shelter NGO",
+  "appearance": "Medium brown skin, 5'7\" (1.70m), elegant curvy figure, short stylized wavy hair, sophisticated makeup, tailored noble-fabric clothing, North Carolina gemstone jewelry (sapphire), durable perfume (Narciso Rodriguez or Idôle)",
+  "personality": "Strong, refined, resilient, cultured, charismatic; transforms past wounds into strength",
+  "gestures": "Wide smile, firm gaze, soft confident speech, impeccable posture, intentional movements",
+  "symbolic_object": "Sapphire ring (symbol of mourning and resilience)",
+  "address": "932 S 3rd Street, Historic Downtown, Wilmington, NC 28401; modern 3-bedroom house (built 2020), gourmet porch, elegant decor, many plants",
+  "frequent_locations": [
+    "Cotton Exchange boutique",
+    "Hagar Shelter (128 S Water St)",
+    "Riverwalk cafés",
+    "Maggie’s home"
+  ],
+  "relationships": {
+    "Maggie": "Soul sister; unbreakable bond through shared advocacy",
+    "Brandon": "Only child, pride and purpose; protective but sometimes overbearing",
+    "Ethan": "Like a nephew; watched him grow",
+    "Joshua": "Deep respect; sees him as reliable, supports his bond with Maggie",
+    "Jasmine (future)": "Symbol of maternal renewal, representing lost daughter Iris",
+    "Ex-husband": "Violent past; lingering emotional scars"
+  },
+  "timeline": [
+    "1977: Born in Wilmington, NC",
+    "1999 (22): Pregnant with Brandon",
+    "2000 (23): Brandon born, same year as Ethan",
+    "2004 (27): Pregnant with Iris; suffers abuse, loses baby at 7 months; moves to shelter, Brandon stays with Maggie",
+    "2005–2006 (28–29): Takes training courses at shelter, gets first job, rents small apartment",
+    "2009 (32): Joins Cotton Exchange boutique via Lauren’s referral",
+    "2012 (35): Becomes store manager; achieves financial stability",
+    "2013 (36): Volunteers at Hagar Shelter, recruits Maggie as therapist",
+    "2024 (47): Continues as manager and volunteer; bonds with Jasmine, starting maternal arc"
+  ]
+}
