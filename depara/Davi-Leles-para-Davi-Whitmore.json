@@ -1,0 +1,32 @@
+{
+  "de": "Davi Leles",
+  "para": "Davi Whitmore",
+  "age": 13,
+  "profession": "Middle School Student",
+  "appearance": "5'2\" (1.58m), slim agile build, light brown skin with faint freckles, short kinky hair, open smile, school uniform or sports/casual clothes, always wears sneakers",
+  "personality": "Polite, observant, subtly humorous; struggles with identity between Carolina Beach and affluent school/club, determined in sports but insecure about status",
+  "gestures": "Grips backpack strap when nervous, adjusts swim cap before races, listens intently to stories",
+  "symbolic_object": "First swimming gold medal and old sports book (gift from Ethan)",
+  "address": "614 Carolina Beach Avenue N, Wilmington, NC 28428 (with Hettie; Ethan-renovated room)",
+  "frequent_locations": [
+    "School in Downtown Wilmington (Sullivan-funded)",
+    "sports club",
+    "Sullivan Engineering (1122 S 3rd St)"
+  ],
+  "relationships": {
+    "Hettie": "Loving, secure bond; strives to honor her efforts",
+    "Maggie": "Helps him navigate identity struggles",
+    "Isabella": "Like an aunt; shares Italian stories, attends school meetings",
+    "Lauren": "Gifts him upscale items to fit in",
+    "Brandon": "Supports his sports needs",
+    "Ethan": "Mentor; renovated his room, encouraged focus"
+  },
+  "timeline": [
+    "2012: Born in Wilmington, father absent beyond legal support",
+    "2015 (3): Frequents Sullivan Engineering, loved by staff",
+    "2021 (9): Attends downtown school, feels social divide",
+    "2023 (11): Joins sports club via Brandon; excels in swimming/rowing",
+    "2024 (12): Ethan renovates his room; Isabella attends school meetings",
+    "2025 (13): Wins first swim meet; Maggie counsels him on identity"
+  ]
+}
