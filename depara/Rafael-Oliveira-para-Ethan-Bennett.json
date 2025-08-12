@@ -1,0 +1,40 @@
+{
+  "de": "Rafael Oliveira",
+  "para": "Ethan Bennett",
+  "age": 25,
+  "status": "Deceased",
+  "profession": "Architect at Sullivan Engineering",
+  "appearance": "Light skin, 5'11\" (1.80m), athletic, blue eyes, straight-wavy light brown hair, contagious smile, casual neat style (light linen shirts, jeans, minimalist sneakers)",
+  "personality": "Affectionate, sociable, unifying, always available; emotional center of his circles, carries responsibilities without complaint",
+  "gestures": "Strong hugs, touches people while talking, constant eye contact and smile, loves capturing moments in photos/videos",
+  "symbolic_object": "Leather bracelet with 'E.B.' initials (gift from Maggie)",
+  "address": "Lived with Maggie at 847 Dock Street, Historic Downtown, Wilmington, NC 28401",
+  "frequent_locations": [
+    "Riverwalk",
+    "Wrightsville Beach",
+    "Greenfield Lake Park",
+    "Sullivan Engineering (1122 S 3rd St)",
+    "farmers markets",
+    "Port City Java"
+  ],
+  "relationships": {
+    "Maggie": "Only child, her primary emotional bond",
+    "Joshua": "Childhood friend and brother figure; shared activities and lifelong bond",
+    "Brandon": "Brother-like friend; shared childhood routines",
+    "Julian": "Close friend and project partner; mutual trust",
+    "Dr. Raymond": "Seen as moral heir; deep trust",
+    "Gavin": "Mentor during internship; taught discipline and technique",
+    "Lauren": "Social and professional friend",
+    "Hettie": "Loyal personal assistant and close friend",
+    "Joann": "Maggie’s best friend, maternal figure"
+  },
+  "timeline": [
+    "2000: Born in Wilmington; grows close to Joshua and Brandon",
+    "2005–2010 (5–10): Shares swimming, rowing, and beach trips with Joshua and Brandon",
+    "2018 (18): Starts Architecture degree at UNCW; meets Julian",
+    "2020 (20): Interns at Sullivan Engineering under Gavin; works with Julian and Brandon",
+    "2021 (21): Visits Joshua in Charlotte, strengthening bond",
+    "2023 (23): Graduates; joins Sullivan Engineering full-time",
+    "2024 (24): Dies tragically, leaving Joshua with promise to care for Maggie"
+  ]
+}
