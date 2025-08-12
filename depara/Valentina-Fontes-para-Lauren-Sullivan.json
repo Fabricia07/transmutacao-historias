@@ -1,0 +1,36 @@
+{
+  "de": "Valentina",
+  "para": "Lauren Sullivan",
+  "age": 30,
+  "profession": "Interior Designer, selectively works at Sullivan Engineering",
+  "appearance": "1.75m tall, athletic build from regular training and aesthetic discipline, sun-kissed bronze skin maintained without excess, golden blonde hair with highlights always perfectly groomed, light brown eyes with subtle yet refined makeup, formal modern tailoring, midi dresses and designer pieces, discreet but expensive jewelry, Italian designer watch, structured luxury handbags, erect posture, firm stride, and an imposing presence in meetings",
+  "personality": "Ambitious, strategic, competitive, perfectionist; prioritizes social perception over substance, shares father’s 'appearance matters' view, embarrassed by mother’s lies",
+  "gestures": "Crosses legs with hands on knee, dramatic pauses in speech, adjusts necklace while evaluating, arches eyebrow when disagreeing",
+  "symbolic_object": "Montblanc pen (father’s gift, symbol of authority)",
+  "address": "1847 Lumina Avenue, Wrightsville Beach, NC 28480 (with parents and Julian)",
+  "frequent_locations": [
+    "Sullivan Engineering (1122 S 3rd St)",
+    "upscale restaurants",
+    "architecture/design events",
+    "high-end decor stores",
+    "client parties"
+  ],
+  "relationships": {
+    "Dr. Raymond": "Mentor and inspiration; shares his ambition",
+    "Isabella": "Strained; embarrassed by her social lies",
+    "Julian": "Cordial but doubts his leadership",
+    "Ethan": "Admired his work; his death leaves professional gap",
+    "Brandon": "Strategic relationship, more partnership than passion",
+    "Hettie": "Tense; clashes over priorities and demeanor"
+  },
+  "timeline": [
+    "1995: Born in Wilmington",
+    "2003 (8): Attends bilingual school, excels in presence",
+    "2013 (18): Graduates in Architecture from UNCW",
+    "2014 (19): Starts postgraduate studies in New York; Ethan takes her projects",
+    "2016 (21): Completes master’s in Milan, returns more ambitious",
+    "2018 (23): Works selectively at Sullivan Engineering",
+    "2023 (28): Starts relationship with Brandon",
+    "2025 (30): Ethan’s death increases company tensions"
+  ]
+}
