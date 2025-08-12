@@ -3,27 +3,27 @@
   "para": "Anthony Hamilton",
   "age": 59,
   "profession": "Businessman in the construction materials sector (owns a well-established supply store, currently managed by trusted staff)",
-  "appearance": "Light skin, 6'0\" (1.82m), slim build, neatly trimmed gray hair, discreet-framed glasses, light dress shirts always crisply ironed, fabric pants, polished leather shoes, serious posture. Keeps his appearance understated yet calculated to project respectability.",
-  "personality": "Austere, disciplined, reserved in speech but socially strategic. Expresses affection through practical gestures, believes discipline shapes character. Values status and social connections, seeing them as essential to family advancement. Carefully observes people of influence and encourages relationships that could elevate the family’s standing.",
-  "gestures": "Adjusts his son’s collar before important meetings, takes a deep breath before debates, organizes documents and folders with precision, holds the silver pen inherited from his father before signing anything.",
-  "symbolic_object": "Organized folders and an antique silver pen — heirloom from his father, symbolizing discipline, legacy, and the ambition to maintain appearances.",
-  "address": "1205 Market Street, Historic Downtown, Wilmington, NC 28401 (lives with Joshua and Meredith in a historic house chosen for its status appeal)",
+  "appearance": "Light skin, 6'0\" (1.82m), slim build, neatly trimmed gray hair, discreet-framed glasses, light dress shirts always crisply ironed, fabric pants, polished leather shoes. Chooses clothing and accessories that look expensive but are often carefully budgeted purchases. Carries himself with a serious, upright posture, projecting an image of success and refinement.",
+  "personality": "Disciplined and socially calculated, with an underlying need to be seen among Wilmington’s more affluent circles. Reserved in speech, but skilled at steering conversations toward his business achievements or his family’s social prospects. Believes discipline and good connections are the keys to elevating one’s standing. Often measures people by the value they can add to his family’s social position.",
+  "gestures": "Adjusts his son’s collar before important social events, takes a slow breath before giving opinions, organizes documents with meticulous care, polishes his antique silver pen before signing anything, straightens his jacket when arriving at gatherings to ensure a composed entrance.",
+  "symbolic_object": "An antique silver pen inherited from his father — both a reminder of discipline and a prop in his cultivated image of prestige.",
+  "address": "1205 Market Street, Historic Downtown, Wilmington, NC 28401 (lives with Joshua and Meredith in a historic home chosen for its prestige value and proximity to influential neighbors, even if upkeep stretches the budget)",
   "past_address": "849 Dock Street, Historic Downtown, Wilmington, NC 28401 (1998–2005, across from Maggie’s residence)",
   "frequent_locations": [
     "Hamilton Construction Supply (business in Northside, Wilmington)",
-    "Traditional cafés in Historic Downtown",
-    "Cape Fear Club — to be seen among Wilmington’s elite",
-    "Networking lunches at well-known local restaurants",
-    "Community events where influential families gather"
+    "Cape Fear Club — primarily to be seen among Wilmington’s elite",
+    "Upscale cafés and wine bars in Historic Downtown",
+    "Networking lunches at high-profile local restaurants",
+    "Charity galas and community events attended by influential families"
   ],
   "relationships": {
-    "Meredith": "Wife; active in maintaining the family’s social image, shares his ambition for upward connections",
-    "Joshua": "Only son; proud of him but sees his marriage as an opportunity for family advancement",
-    "Daughter (unnamed)": "Dental student in Raleigh; affectionate but distant",
-    "Maggie": "Former neighbor; cordial but keeps relationship surface-level",
-    "Lauren Sullivan": "Respects her family’s influence; encourages Joshua’s proximity to her",
-    "Melany Campbell": "Sees her as another valuable marriage prospect for Joshua due to status and connections",
-    "Brandon/Julian": "Knows them through Joshua and Sullivan Engineering"
+    "Meredith": "Wife; equally invested in maintaining the family’s image, often coordinates appearances and social visits with him",
+    "Joshua": "Only son; sees him as both an heir and a key to forging alliances through marriage",
+    "Daughter (unnamed)": "Dental student in Raleigh; maintains warm but less strategic relationship due to her distance",
+    "Maggie": "Former neighbor; cordial, but not part of his core social strategy",
+    "Lauren Sullivan": "Values her family's reputation; actively supports Joshua’s closeness to her",
+    "Melany Campbell": "Considers her a prime marriage prospect for Joshua due to her family’s status and potential business ties",
+    "Brandon/Julian": "Knows them through Joshua and Sullivan Engineering; respects their network"
   },
   "timeline": [
     "1966: Born in Wilmington",
@@ -32,11 +32,11 @@
     "1993 (27): Joshua born",
     "1997 (31): Daughter born",
     "1998–2005 (32–39): Lives in Historic Downtown, across from Maggie",
-    "2006 (40): Buys Market Street house for its social prestige",
-    "2011 (45): Supports Joshua’s engineering studies, instilling discipline and encouraging advantageous connections",
-    "2018 (52): Joshua graduates; Anthony begins reducing involvement in the business",
+    "2006 (40): Buys Market Street house for its social prestige despite higher maintenance costs",
+    "2011 (45): Supports Joshua’s engineering studies, encouraging networking with elite peers",
+    "2018 (52): Joshua graduates; Anthony reduces involvement in the business to focus more on social positioning",
     "2019 (53): Transfers business management to trusted staff",
-    "2023 (58): Notes Joshua’s growing closeness to Maggie and Lauren Sullivan",
-    "2024 (59): Subtly pushes Joshua toward potential matches like Lauren and later Melany Campbell for a socially advantageous marriage"
+    "2023 (58): Notices Joshua’s growing closeness to Lauren Sullivan and Maggie",
+    "2024 (59): Strategically pushes Joshua toward matches like Lauren and later Melany Campbell for a marriage that strengthens family status"
   ]
 }
