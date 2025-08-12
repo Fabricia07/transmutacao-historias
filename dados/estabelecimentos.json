@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "nome": "Estabelecimentos Wilmington, NC",
+    "versao": "1.0",
+    "data_criacao": "2025-08-12",
+    "descricao": "Locais específicos e reais de Wilmington, Carolina do Norte para narrativas autênticas"
+  },
+  "bairros": {
+    "Historic Downtown": "Centro comercial e residencial (Maggie, Linda Monroe, Gavin)",
+    "Wrightsville Beach": "Residencial luxuoso, costeiro (famílias Sullivan, Melany)",
+    "Carolina Beach": "Classe trabalhadora, vibe costeira (Olivia, Heather, Jasmine)",
+    "Riverfront": "Comercial e cultural, coração de Wilmington",
+    "Sunset Park": "Residencial acessível, comunidade unida"
+  },
+  "ruas_principais": {
+    "Market Street": "Via principal, conecta bairros",
+    "Dock Street": "Residencial Historic Downtown",
+    "Water Street": "Comercial Riverfront",
+    "Front Street": "Centro comercial e cultural",
+    "S 3rd Street": "Mistura residencial e profissional Historic Downtown"
+  },
+  "estabelecimentos_profissionais": {
+    "Sullivan Engineering & Architecture": "1122 S 3rd St, Historic Downtown",
+    "Bennett Counseling Services": "112 N Front St, Historic Downtown",
+    "Wilmington Premium Retail": "Cotton Exchange, 321 N Front St",
+    "Tenda de Hagar Shelter": "128 S Water St, Riverfront"
+  },
+  "instituicoes": {
+    "New Hanover Regional Medical Center": "2131 S 17th St (hospital principal)",
+    "Bradley Creek Elementary": "211 Village Rd NE (escola da Olivia)",
+    "UNCW": "University of North Carolina Wilmington (palestras Joshua, projetos Gavin)",
+    "First Baptist Church": "411 Market St (funerais americanos)"
+  },
+  "estabelecimentos_culturais": {
+    "Thalian Hall Bookstore": "310 Chestnut St (intelectuais respiram)",
+    "The Chocolate Post": "320 Castle St (romântico)",
+    "The George on the Riverwalk": "128 S Water St (farm-to-table, café matinal)",
+    "Elijah's Restaurant": "2 Ann St (seafood, casual upscale)",
+    "Live Oak Bank Pavilion": "10 Cowan St (música, conexões inesperadas)",
+    "Port City Java": "2099 Market St (café matinal substituto padaria)"
+  },
+  "espacos_publicos": {
+    "Cape Fear Riverwalk": "Centro cultural, eventos, caminhadas contemplativas",
+    "Greenfield Lake Park": "Treinos de remo Brandon, memórias Ethan",
+    "Wrightsville Beach Pier": "Reflexão Joshua, crise Maggie",
+    "Airlie Gardens": "Vista costeira, catarse emocional",
+    "Wilmington Farmers Market": "5320 Oleander Dr (vida cotidiana Olivia)",
+    "Chandler's Wharf": "Centro artístico, lojas e estúdios locais"
+  },
+  "elementos_climaticos": {
+    "coastal_mist": {
+      "uso": "melancolia, mistério, luto",
+      "descricao": "névoa leve sobe do Cape Fear River pela manhã",
+      "exemplo": "Coastal mist drifted from the Cape Fear as Maggie..."
+    },
+    "afternoon_thunderstorms": {
+      "uso": "drama, tensão, conflito",
+      "descricao": "súbitos no verão, com ventos fortes do Atlântico",
+      "exemplo": "Storm clouds rolled over the Riverwalk as..."
+    },
+    "spring_azalea_blooms": {
+      "uso": "mudança, transição, crescimento",
+      "descricao": "março-abril, explosão de cores em Airlie Gardens",
+      "exemplo": "Azaleas bloomed vibrantly in Airlie Gardens as..."
+    },
+    "winter_coastal_chill": {
+      "uso": "isolamento, introspecção, pausa forçada",
+      "descricao": "brisa fria do mar, força encontros intimistas",
+      "exemplo": "A coastal chill swept Wilmington, drawing residents closer..."
+    },
+    "golden_coastal_light": {
+      "uso": "esperança, renovação, clareza",
+      "descricao": "luz dourada reflete no mar ao entardecer",
+      "exemplo": "Golden coastal light shimmered on Wrightsville Beach as..."
+    }
+  },
+  "contexto_cultural": {
+    "comunidade_artistica": {
+      "Chandler's Wharf": "Centro artístico, lojas e estúdios locais",
+      "Healing Community": "Rede informal de terapeutas (Maggie, Melany)",
+      "Victorian Architecture": "Historic Downtown, Ethan admiraria",
+      "Beach Cottages": "Carolina Beach, onde Olivia mora"
+    },
+    "engenharia_sustentavel": {
+      "UNCW": "Programas ambientais costeiros reconhecidos",
+      "Coastal Resilience": "Projetos contra erosão e furacões",
+      "Clean-tech Partnerships": "Energia eólica offshore",
+      "Sustainable Architecture": "Especialidade Gavin"
+    },
+    "cape_fear_coast": {
+      "Cape Fear Riverwalk": "1.75 milhas, coração cultural",
+      "Wrightsville Beach Pier": "Elevação icônica, vista 360° do Atlântico",
+      "Seasonal Drama": "Marés e tempestades moldam a narrativa",
+      "Spiritual Significance": "Oceano como refúgio, renovação"
+    }
+  },
+  "eventos_anuais": {
+    "North Carolina Azalea Festival": "Primavera, maior festa de Wilmington",
+    "Wilmington Seafood Festival": "Outono, celebração costeira",
+    "Riverfest": "Cultura e música no Riverwalk",
+    "Holiday Flotilla": "Wrightsville Beach, barcos iluminados"
+  },
+  "gatilhos_narrativos": {
+    "cena_emocional_intensa": {
+      "atmosfera": ["coastal_mist", "afternoon_thunderstorms"],
+      "locais": ["Cape Fear Riverwalk", "Wrightsville Beach Pier"],
+      "detalhe": "oceano envolvendo personagem"
+    },
+    "momento_reflexao": {
+      "atmosfera": ["golden_coastal_light", "azalea_blooms"],
+      "locais": ["Cape Fear Riverwalk", "Airlie Gardens"],
+      "detalhe": "vastidão do mar dando perspectiva"
+    },
+    "encontro_casual": {
+      "locais": ["Cape Fear Riverwalk", "Historic Downtown"],
+      "timing": "durante eventos comunitários",
+      "detalhe": "Wilmington como small big city"
+    },
+    "cena_romantica": {
+      "locais": ["The Chocolate Post", "Wrightsville Beach"],
+      "atmosfera": "golden_coastal_light",
+      "detalhe": "intimidade única do litoral"
+    },
+    "personagem_respirar": {
+      "local": "Thalian Hall Bookstore",
+      "atividade": "leitura, café, observação",
+      "detalhe": "comunidade intelectual acolhedora"
+    },
+    "celebracao_evento": {
+      "locais": ["Azalea Festival", "Riverfest"],
+      "detalhe": "cidade inteira presente"
+    },
+    "vida_cotidiana": {
+      "local": "Wilmington Farmers Market",
+      "detalhe": "produtores locais"
+    },
+    "competicao_brandon": {
+      "locais": ["Greenfield Lake Park", "Wilmington Seafood Festival"],
+      "detalhe": "ambiente costeiro como arena"
+    }
+  },
+  "transporte": {
+    "sistema_publico": {
+      "Wave Transit Bus System": "Olivia usa regularmente",
+      "rotas": "conecta Historic Downtown, Carolina Beach, Wrightsville Beach",
+      "acessibilidade": "programa de saúde pública"
+    },
+    "particulares": {
+      "motorcycle_culture": "Joshua, ideal para estradas costeiras",
+      "uber_lyft": "padrão para distâncias médias",
+      "walking_friendly": "Historic Downtown compacto"
+    },
+    "viagens_regiao": {
+      "Carolina Beach": "20 min, substitui praias brasileiras",
+      "Kure Beach": "25 min, aventura/natureza",
+      "Charlotte": "3h, cidade grande",
+      "Outer Banks": "4h, praias icônicas"
+    }
+  }
+}
