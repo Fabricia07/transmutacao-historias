@@ -1,0 +1,25 @@
+{
+  "de": "Juarez",
+  "para": "Jim Douglas",
+  "age": 51,
+  "profession": "Construction Worker at large Wilmington contractor; incarcerated for femicide",
+  "appearance": "Light skin, blonde, green eyes, strong build from labor, sun-weathered skin, closed intimidating posture, rarely smiles, prison uniform",
+  "personality": "Extremely jealous, controlling, manipulative; publicly passive, privately cruel; seeks total dominance",
+  "gestures": "Fixed intimidating stare, slow low speech, minimal gestures, uses prolonged silence as threat",
+  "symbolic_object": "Old kitchen knife (used in crime)",
+  "address": "Cell at New Hanover County Detention Facility (3950 Juvenile Center Rd, Castle Hayne, NC 28429)",
+  "frequent_locations": [
+    "Construction sites in Historic Downtown (before incarceration)",
+    "local bars",
+    "neighborhood"
+  ],
+  "relationships": {
+    "Christine": "Wife and victim; possessive and violent relationship",
+    "Jasmine": "Eldest daughter; indirectly intimidated, traumatized",
+    "Younger children": "Distant, fear-based relationship",
+    "Work colleagues": "Superficial interactions; kept personal life private"
+  },
+  "timeline": [
+    "Not fully detailed; worked as construction laborer, lived with family in Wilmington, perpetrated cycle of domestic violence, incarcerated for femicide"
+  ]
+}
