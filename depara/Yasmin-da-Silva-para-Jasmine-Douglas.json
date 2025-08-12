@@ -1,0 +1,31 @@
+{
+  "de": "Yasmin da Silva",
+  "para": "Jasmine Douglas",
+  "age": 13,
+  "profession": "Middle School Student; Orphan",
+  "appearance": "5'1\" (1.55m), light skin with golden tone, kinky hair in poorly done braids, donated clothes (mismatched tops, worn sneakers), expressive eyes",
+  "personality": "Shy, distrustful, sensitive; carries silent pain, creatively observant",
+  "gestures": "Lowers eyes, clutches pink backpack, draws secretly in notebook",
+  "symbolic_object": "Pink backpack with secret notebook; butterfly drawing (hope)",
+  "address": "Grandmother’s house at 614 Carolina Beach Avenue N, Wilmington, NC 28428; Good Shepherd Center (811 Martin St, Wilmington, NC 28401)",
+  "frequent_locations": [
+    "Harrelson Center (20 N 4th St)",
+    "Wilmington Farmers Market",
+    "school"
+  ],
+  "relationships": {
+    "Grandmother": "Caregiver after parents’ tragedy",
+    "Joann": "Emerging connection; helps break cycle of violence",
+    "Maggie": "Supportive figure; aids emotional healing",
+    "Jim": "Father, incarcerated; source of trauma",
+    "Christine": "Mother, deceased; loving but tragic bond"
+  },
+  "timeline": [
+    "2012: Born in Wilmington",
+    "2015 (3): Experiences unstable home with parents",
+    "2021 (9): Moves to grandmother’s after mother’s death",
+    "2023 (11): Enrolled in school with Sullivan Engineering support",
+    "2024 (12): Father incarcerated; begins therapy with Maggie",
+    "2025 (13): Bonds with Joann, finds hope through community"
+  ]
+}
