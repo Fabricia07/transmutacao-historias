@@ -3,7 +3,7 @@
   "para": "Olivia Mendes",
   "age": 23,
   "profession": "Kindergarten Teacher at Forest Hills Elementary (602 Colonial Dr, Wilmington, NC 28403)",
-  "appearance": "Light brown skin (reddens in sun, hinting Afro-Latina roots), 5'4\" (1.62m), curvy, kinky hair straightened with relaxers, myopic brown eyes behind simple Medicaid glasses, wide genuine smile with one slightly crooked tooth, budget-friendly clothes (Walmart polyester blouses, tight Ross jeans, Payless sneakers), always neat: threaded brows, gel-polished nails (chipping by week's end), hair flat-ironed and shiny",
+  "appearance": "Light skin with a sprinkle of freckles across the cheeks, 5'4\" (1.62m), curvy, long wavy red hair, bright blue eyes, myopic behind simple Medicaid glasses, wide genuine smile with one slightly crooked tooth, budget-friendly clothes (Walmart polyester blouses, tight Ross jeans, Payless sneakers), always neat: threaded brows, gel-polished nails (chipping by week's end), hair well-kept and shiny",
   "personality": "Authentic, warm, resilient; chooses happiness daily as survival, empathetic, transforms trauma into strength, street-smart but soft-hearted",
   "gestures": "Gestures animatedly, adjusts glasses constantly, laughs loud and hearty, clutches notebook tightly, crosses arms and leans in when standing her ground",
   "symbolic_object": "Notebook for daily 'happy moments' (12 filled since age 11), hiding coded 'dark days' of past trauma",
@@ -22,7 +22,7 @@
     "Neighbors": "Tight-knit Northside community, porch talks, mutual support like borrowing sugar or sharing storm prep tips"
   },
   "timeline": [
-    "2002: Born in Wilmington, NC, to a struggling Afro-Latina single mom",
+    "2002: Born in Wilmington, NC, to a struggling single mom",
     "2008 (6): Abandoned at grandma’s with a note ('Can't do this. Sorry.'), grandma fights CPS for custody",
     "2010 (8): Caught shoplifting food (bread, milk) from Food Lion due to hunger; sent to Stonewall Jackson Youth Development Center for 1 year",
     "2011 (9): Starts notebook of 'happy moments' as emotional survival, learning resilience from center's counselor",
@@ -63,9 +63,9 @@
   "cinematic_description": {
     "height": "5'4\" (1.62m)",
     "body": "Curvy, natural – no gym, just genetics and daily hustle",
-    "skin": "Light brown, reddens in sun, some acne scars hinting at a tough youth",
-    "hair": "Kinky, straightened with relaxers, always flat-ironed and glossy",
-    "eyes": "Brown, myopic, behind thick Medicaid glasses",
+    "skin": "Light with freckles across cheeks and nose, reddens in sun",
+    "hair": "Long, wavy red hair, well-kept and shiny",
+    "eyes": "Bright blue, myopic, behind thick Medicaid glasses",
     "smile": "Wide, genuine, one slightly crooked tooth she finds charming",
     "style": "Budget but neat – thrift-shop blouses, tight jeans, generic sneakers",
     "mannerisms": "Loud talker, big gestures, hearty laugh, no social filters"
