@@ -12,7 +12,7 @@ Este diretório contém os 20 personagens da história original ambientada no Ri
 6. Clara Mendes
 7. Valentina Fontes
 8. Lúcio Ferreira
-9. Nina Lelles
+9. Nina Leles
 10. Juliano Fontes
 11. Dr. Armando Fontes
 12. Vera Lúcia Fontes
@@ -23,7 +23,7 @@ Este diretório contém os 20 personagens da história original ambientada no Ri
 17. Crislaine Douglas
 18. Juarez Douglas
 19. Camila Bragança
-20. Davi Lelles
+20. Davi Leles
 
 ## Formato
 
