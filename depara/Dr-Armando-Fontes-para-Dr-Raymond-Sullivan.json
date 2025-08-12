@@ -1,0 +1,39 @@
+{
+  "de": "Armando Luiz Fontes",
+  "para": "Dr. Raymond Sullivan",
+  "age": 65,
+  "profession": "Retired Civil Engineer; founder of Sullivan Engineering",
+  "appearance": "Light skin, 5'10\" (1.79m), well-groomed white hair, light brown eyes marked with under-eye bags, deep and measured Wilmington-accented voice, polished Swiss Omega watch inherited from his father, always wears polished leather shoes and crisp dress shirts with a blazer — even at home. Walks with a slight stiffness from a hip surgery at 61.",
+  "personality": "Methodical, demanding, pragmatic. Comes from a generation that values hierarchy, meritocracy, and male leadership. While visionary in engineering, maintains ingrained 1980s biases, especially regarding gender roles in business. Judges people by both their technical skill and their ability to project authority. Has difficulty trusting those he considers 'ordinary' or lacking a commanding presence.",
+  "gestures": "Adjusts shirt cuffs before speaking, rests hand on chin when listening, walks with hands behind back, raises eyebrow when disagreeing.",
+  "symbolic_object": "Vintage Omega Swiss watch — purchased by his father with his first career bonus and passed down as a symbol of legacy, discipline, and responsibility.",
+  "address": "1847 Lumina Avenue, Wrightsville Beach, NC 28480 — 4-bedroom oceanfront home with a private office and terrace overlooking the Atlantic.",
+  "frequent_locations": [
+    "Sullivan Engineering headquarters (1122 S 3rd St, Wilmington, NC)",
+    "Cape Fear Country Club — private golf and networking events",
+    "Wilmington Rotary Club — monthly leadership luncheons",
+    "Engineering association meetings",
+    "Historic Downtown Wilmington’s most traditional restaurants"
+  ],
+  "relationships": {
+    "Julian": "Loves him but doubts his leadership potential due to timidity; sees strong technical skills but little charisma.",
+    "Brandon": "Admires his confidence, client appeal, and perceived leadership potential.",
+    "Ethan": "Valued his charisma and talent, though feared a lack of long-term ambition.",
+    "Lauren": "Praises her competence but believes she still requires male leadership in the company.",
+    "Isabella": "Respects her as a traditional partner; maintains emotional distance but a stable marriage."
+  },
+  "timeline": [
+    "1960: Born in Wilmington, NC",
+    "1978 (18): Starts Civil Engineering degree at UNC Wilmington",
+    "1983 (23): Begins career in public works",
+    "1988 (28): Marries Isabella",
+    "1993 (33): Founds Sullivan Engineering — before the birth of Julian",
+    "1995 (35): Lauren born",
+    "2000 (40): Julian born",
+    "2013 (53): Lauren interns at Sullivan Engineering",
+    "2015–2019 (55–59): Ethan fills Lauren’s internship role while she studies in New York and Milan",
+    "2018 (58): Begins preparing Julian for leadership under strict expectations",
+    "2021 (61): Undergoes hip surgery",
+    "2024 (64): Secretly acknowledges Julian’s merit without verbalizing it"
+  ]
+}
