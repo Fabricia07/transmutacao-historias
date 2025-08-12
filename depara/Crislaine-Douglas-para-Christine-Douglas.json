@@ -1,0 +1,27 @@
+{
+  "de": "Crislaine",
+  "para": "Christine Douglas",
+  "age": 31,
+  "status": "Deceased",
+  "profession": "Housekeeper",
+  "appearance": "Fair skin, 5'2\" (1.58m), slim, dark blonde hair in bun with bangs, deep under-eye circles, simple worn clothes (light pants/jeans, flip-flops/worn sneakers), soft low voice, sad but genuine smile",
+  "personality": "Sweet, submissive, resigned; believes women endure for children; quietly dreamy, prioritizes children’s safety",
+  "gestures": "Avoids eye contact, hides bruises with makeup/scarves, speaks childlike to strangers, strokes children’s hair for reassurance",
+  "symbolic_object": "Unsent help letter (kept in Jasmine’s notebook)",
+  "address": "Simple rented house at 614 Carolina Beach Avenue N, Wilmington, NC 28428, near work",
+  "frequent_locations": [
+    "Carolina Beach home",
+    "employers’ houses",
+    "small neighborhood markets",
+    "Wave Transit Bus stops"
+  ],
+  "relationships": {
+    "Jasmine": "Eldest daughter, confidante; urges her to protect siblings and avoid her fate",
+    "Jim": "Husband and abuser; relationship of fear and emotional dependence",
+    "Jasmine’s siblings": "Protective maternal bond, strained by instability",
+    "Joann": "Never met, but Joann will help Jasmine break cycle of violence"
+  },
+  "timeline": [
+    "Not fully detailed; recently moved to Wilmington, worked as housekeeper, lived with Jim and children in unstable environment; died due to domestic violence"
+  ]
+}
