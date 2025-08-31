@@ -1,1 +1,0 @@
-Rafael e Joana foram surfar em Copacabana. O sol brilhava forte naquela manhã de verão quando eles se encontraram na areia. Rafael carregava sua prancha azul, enquanto Joana ajustava sua roupa de neoprene.
